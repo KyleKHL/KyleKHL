@@ -1,6 +1,13 @@
 ### Hello World! 👋
 
-I am a Front-End Developer with a passion for creating accessible, responsive and user-friendly applications! A graduate of [Juno College](https://junocollege.com/)'s Web Development Bootcamp. I am always on the lookout for new challenges and opportunities to learn and grow as a developer. 
+I am a Front-End Developer with a passion for creating accessible, responsive and user-friendly applications! A Graduate of [Juno College](https://junocollege.com/)'s Web Development Bootcamp cohort 48✨. 
+<br>
+With a background in healthcare, I offer a unique perspective and set of abilities to any web development team. I excel in fast-paced, high-pressure environments, whether working independently or in a group. I have a passion for creative problem solving and always seek to tackle new challenges. My caring nature and strong communication skills enable me to successfully navigate difficult circumstances and collaborate effectively with others.
+<br>
+When I'm not behind the screen, I enjoy taking my family on road trips 🚘, trying new foods/recipes 🍱 (big foodie over here) and reading comics 📚!
+<br>
+
+I am always on the lookout for new challenges and opportunities to learn and grow as a developer. Always down to collaborate with others!
 
 Skill Set: 
 <br>
