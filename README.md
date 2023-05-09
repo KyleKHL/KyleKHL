@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I am a Front-End Developer with a passion for creating accessible, responsive and user-friendly applications! 
+I'm a web developer with a passion for creating accessible, responsive and user-friendly applications! 
 <br>
 A Graduate of [Juno College](https://junocollege.com/)'s Web Development Bootcamp cohort 48✨. 
 <br></br>
