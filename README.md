@@ -17,5 +17,3 @@ Currently tackling:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <br></br>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kyle-kh-lau/), book via [Calendly](https://calendly.com/kylelaudev) or send me an email [here](https://kylelau.dev/#contact)
-<br></br>
-[![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleKHL)](https://github.com/anuraghazra/github-readme-stats)
